@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Music Concert",
+    "date": "2024-07-05",
+    "time": "19:00",
+    "location": [
+      33.6844,
+      73.0479
+    ],
+    "description": "Enjoy a live music concert with popular bands.",
+    "category": "music"
+  },
+  {
+    "name": "Art Exhibition",
+    "date": "2024-07-10",
+    "time": "14:00",
+    "location": [
+      33.6938,
+      73.0652
+    ],
+    "description": "Explore modern art exhibits from local artists.",
+    "category": "art"
+  },
+  {
+    "name": "Football Match",
+    "date": "2024-07-15",
+    "time": "18:00",
+    "location": [
+      33.7116,
+      73.0424
+    ],
+    "description": "Watch a thrilling football match between top teams.",
+    "category": "sports"
+  },
+  {
+    "name": "Food Festival",
+    "date": "2024-07-20",
+    "time": "11:00",
+    "location": [
+      33.6951,
+      73.0497
+    ],
+    "description": "Taste delicious dishes from various cuisines.",
+    "category": "food"
+  },
+  {
+    "name": "Tech Conference",
+    "date": "2024-07-25",
+    "time": "09:00",
+    "location": [
+      33.7000,
+      73.0555
+    ],
+    "description": "Join industry leaders to discuss the latest tech trends.",
+    "category": "tech"
+  },
+  {
+    "name": "Book Fair",
+    "date": "2024-07-30",
+    "time": "10:00",
+    "location": [
+      33.7022,
+      73.0508
+    ],
+    "description": "Find books from various genres and meet authors.",
+    "category": "literature"
+  },
+  {
+    "name": "Yoga Workshop",
+    "date": "2024-08-02",
+    "time": "08:00",
+    "location": [
+      33.7099,
+      73.0410
+    ],
+    "description": "Participate in a rejuvenating yoga session.",
+    "category": "health"
+  },
+  {
+    "name": "Film Festival",
+    "date": "2024-08-05",
+    "time": "16:00",
+    "location": [
+      33.7085,
+      73.0432
+    ],
+    "description": "Watch a selection of films from various genres.",
+    "category": "film"
+  },
+  {
+    "name": "Science Fair",
+    "date": "2024-08-10",
+    "time": "13:00",
+    "location": [
+      33.7155,
+      73.0379
+    ],
+    "description": "Discover innovative science projects and experiments.",
+    "category": "science"
+  },
+  {
+    "name": "Craft Workshop",
+    "date": "2024-08-15",
+    "time": "10:00",
+    "location": [
+      33.7171,
+      73.0396
+    ],
+    "description": "Learn new crafting techniques in a fun environment.",
+    "category": "craft"
+  },
+  {
+    "name": "Marathon",
+    "date": "2024-08-20",
+    "time": "06:00",
+    "location": [
+      33.7223,
+      73.010
+    ],
+    "description": "Join the annual city marathon for all fitness levels.",
+    "category": "sports"
+  },
+  {
+    "name": "Photography Exhibition",
+    "date": "2024-08-25",
+    "time": "15:00",
+    "location": [
+      33.7239,
+      73.0367
+    ],
+    "description": "View stunning photographs from talented photographers.",
+    "category": "art"
+  },
+  {
+    "name": "Startup Pitch Event",
+    "date": "2024-08-30",
+    "time": "12:00",
+    "location": [
+      33.7255,
+      73.0333
+    ],
+    "description": "Watch startups pitch their ideas to investors.",
+    "category": "tech"
+  },
+  {
+    "name": "Dance Performance",
+    "date": "2024-09-05",
+    "time": "18:00",
+    "location": [
+      33.7281,
+      73.002
+    ],
+    "description": "Enjoy a mesmerizing dance performance.",
+    "category": "dance"
+  },
+  {
+    "name": "Cooking Class",
+    "date": "2024-09-10",
+    "time": "11:00",
+    "location": [
+      33.7302,
+      73.0301
+    ],
+    "description": "Learn to cook delicious meals with expert chefs.",
+    "category": "food"
+  },
+  {
+    "name": "Cooking Class",
+    "date": "2024-10-10",
+    "time": "12:00",
+    "location": [
+      33.7032,
+      73.001
+    ],
+    "description": "Learn to cook delicious pizzas with expert chefs Arslan.",
+    "category": "food"
+  },
+  {
+    "name": "Mountain Hiking",
+    "date": "2024-09-12",
+    "time": "07:00",
+    "location": [
+      33.7485,
+      73.0373
+    ],
+    "description": "Join a scenic hiking adventure in the Margalla Hills.",
+    "category": "outdoors"
+  },
+  {
+    "name": "Stand-Up Comedy Night",
+    "date": "2024-09-14",
+    "time": "20:00",
+    "location": [
+      33.7077,
+      73.0628
+    ],
+    "description": "Laugh out loud with some of the city's best comedians.",
+    "category": "comedy"
+  },
+  {
+    "name": "Digital Marketing Workshop",
+    "date": "2024-09-16",
+    "time": "10:00",
+    "location": [
+      33.7090,
+      73.0564
+    ],
+    "description": "Learn effective digital marketing strategies from experts.",
+    "category": "business"
+  },
+  {
+    "name": "Flower Show",
+    "date": "2024-09-18",
+    "time": "09:00",
+    "location": [
+      33.6947,
+      73.0698
+    ],
+    "description": "Enjoy beautiful flower arrangements and gardening tips.",
+    "category": "nature"
+  },
+  {
+    "name": "Gaming Tournament",
+    "date": "2024-09-20",
+    "time": "15:00",
+    "location": [
+      33.7121,
+      73.0519
+    ],
+    "description": "Compete in popular video games and win prizes.",
+    "category": "gaming"
+  },
+  {
+    "name": "Heritage Walk",
+    "date": "2024-09-22",
+    "time": "08:00",
+    "location": [
+      33.6883,
+      73.0512
+    ],
+    "description": "Explore Islamabad’s historical sites on a guided walk.",
+    "category": "culture"
+  },
+  {
+    "name": "Coding Bootcamp",
+    "date": "2024-09-25",
+    "time": "09:00",
+    "location": [
+      33.7158,
+      73.0357
+    ],
+    "description": "Get hands-on coding experience with tech professionals.",
+    "category": "tech"
+  },
+  {
+    "name": "Wine and Cheese Night",
+    "date": "2024-09-28",
+    "time": "19:00",
+    "location": [
+      33.7002,
+      73.0489
+    ],
+    "description": "Enjoy a sophisticated evening with wine and cheese tastings.",
+    "category": "food"
+  },
+  {
+    "name": "Animal Rescue Fair",
+    "date": "2024-10-02",
+    "time": "10:00",
+    "location": [
+      33.7205,
+      73.0493
+    ],
+    "description": "Support animal rescue efforts and meet adoptable pets.",
+    "category": "charity"
+  },
+  {
+    "name": "Virtual Reality Experience",
+    "date": "2024-10-05",
+    "time": "11:00",
+    "location": [
+      33.7274,
+      73.0445
+    ],
+    "description": "Dive into virtual worlds with advanced VR technology.",
+    "category": "tech"
+  },
+  {
+    "name": "Stand-Up Paddle Boarding",
+    "date": "2024-10-07",
+    "time": "08:00",
+    "location": [
+      33.6922,
+      73.0225
+    ],
+    "description": "Try paddle boarding on the lake with professional guidance.",
+    "category": "outdoors"
+  },
+  {
+    "name": "Rock Climbing Workshop",
+    "date": "2024-10-10",
+    "time": "07:30",
+    "location": [
+      33.6903,
+      73.0371
+    ],
+    "description": "Challenge yourself with an introductory rock climbing course.",
+    "category": "sports"
+  },
+  {
+    "name": "Baking Class for Kids",
+    "date": "2024-10-15",
+    "time": "13:00",
+    "location": [
+      33.7024,
+      73.0380
+    ],
+    "description": "Let kids learn basic baking skills in a fun environment.",
+    "category": "food"
+  },
+  {
+    "name": "Bird Watching Tour",
+    "date": "2024-10-18",
+    "time": "06:30",
+    "location": [
+      33.7435,
+      73.0683
+    ],
+    "description": "Discover local bird species with an experienced guide.",
+    "category": "nature"
+  },
+  {
+    "name": "Wine Tasting Event",
+    "date": "2024-10-20",
+    "time": "18:00",
+    "location": [
+      33.7081,
+      73.0414
+    ],
+    "description": "Experience fine wines from around the world.",
+    "category": "food"
+  },
+  {
+    "name": "Creative Writing Workshop",
+    "date": "2024-10-22",
+    "time": "14:00",
+    "location": [
+      33.6969,
+      73.0588
+    ],
+    "description": "Improve your writing skills with a professional author.",
+    "category": "literature"
+  },
+  {
+    "name": "Charity Gala",
+    "date": "2024-10-25",
+    "time": "19:00",
+    "location": [
+      33.7102,
+      73.0476
+    ],
+    "description": "Attend a formal gala to support local charities.",
+    "category": "charity"
+  },
+  {
+    "name": "Rooftop Yoga",
+    "date": "2024-10-27",
+    "time": "17:00",
+    "location": [
+      33.7095,
+      73.0310
+    ],
+    "description": "Relax and unwind with a sunset yoga session on the rooftop.",
+    "category": "health"
+  },
+  {
+    "name": "Design Thinking Workshop",
+    "date": "2024-10-30",
+    "time": "10:00",
+    "location": [
+      33.7119,
+      73.0482
+    ],
+    "description": "Learn creative problem-solving techniques in this workshop.",
+    "category": "business"
+  },
+  {
+    "name": "Astronomy Night",
+    "date": "2024-11-01",
+    "time": "20:00",
+    "location": [
+      33.7420,
+      73.0688
+    ],
+    "description": "Gaze at the stars and learn about astronomy with telescopes.",
+    "category": "science"
+  },
+  {
+    "name": "Jazz Night",
+    "date": "2024-11-05",
+    "time": "19:00",
+    "location": [
+      33.6864,
+      73.0451
+    ],
+    "description": "Enjoy a night of live jazz music by local musicians.",
+    "category": "music"
+  },
+  {
+    "name": "Gallery Opening",
+    "date": "2024-11-07",
+    "time": "18:00",
+    "location": [
+      33.6905,
+      73.0503
+    ],
+    "description": "Be the first to see the new collection at the art gallery.",
+    "category": "art"
+  },
+  {
+    "name": "Tennis Tournament",
+    "date": "2024-11-08",
+    "time": "09:00",
+    "location": [
+      33.7089,
+      73.0581
+    ],
+    "description": "Watch top players compete in a thrilling tennis tournament.",
+    "category": "sports"
+  },
+  {
+    "name": "Vegan Food Festival",
+    "date": "2024-11-09",
+    "time": "12:00",
+    "location": [
+      33.7115,
+      73.0679
+    ],
+    "description": "Sample a variety of plant-based dishes from local vendors.",
+    "category": "food"
+  },
+  {
+    "name": "AI Summit",
+    "date": "2024-11-10",
+    "time": "10:00",
+    "location": [
+      33.7180,
+      73.0563
+    ],
+    "description": "Attend discussions on artificial intelligence and its future.",
+    "category": "tech"
+  },
+  {
+    "name": "Poetry Reading",
+    "date": "2024-11-12",
+    "time": "18:00",
+    "location": [
+      33.7161,
+      73.0402
+    ],
+    "description": "Listen to poetic readings from local and national poets.",
+    "category": "literature"
+  },
+  {
+    "name": "Pilates Class",
+    "date": "2024-11-13",
+    "time": "07:00",
+    "location": [
+      33.7098,
+      73.0387
+    ],
+    "description": "Start your day with a Pilates session designed to tone and strengthen.",
+    "category": "health"
+  },
+  {
+    "name": "Outdoor Movie Screening",
+    "date": "2024-11-14",
+    "time": "20:00",
+    "location": [
+      33.7045,
+      73.0346
+    ],
+    "description": "Watch a classic film under the stars with friends and family.",
+    "category": "film"
+  },
+  {
+    "name": "Space Exploration Exhibit",
+    "date": "2024-11-15",
+    "time": "11:00",
+    "location": [
+      33.7197,
+      73.0361
+    ],
+    "description": "Explore the wonders of space with interactive exhibits.",
+    "category": "science"
+  },
+  {
+    "name": "Woodworking Workshop",
+    "date": "2024-11-16",
+    "time": "09:00",
+    "location": [
+      33.7082,
+      73.0470
+    ],
+    "description": "Create your own wooden creations in a hands-on workshop.",
+    "category": "craft"
+  },
+  {
+    "name": "Street Football Tournament",
+    "date": "2024-11-17",
+    "time": "16:00",
+    "location": [
+      33.7251,
+      73.0433
+    ],
+    "description": "Compete in a fast-paced street football tournament.",
+    "category": "sports"
+  },
+  {
+    "name": "Sculpture Exhibition",
+    "date": "2024-11-18",
+    "time": "15:00",
+    "location": [
+      33.7298,
+      73.0593
+    ],
+    "description": "Admire intricate sculptures by local and international artists.",
+    "category": "art"
+  },
+  {
+    "name": "Smart Home Expo",
+    "date": "2024-11-19",
+    "time": "10:00",
+    "location": [
+      33.7048,
+      73.0607
+    ],
+    "description": "Explore the latest in smart home technology and innovations.",
+    "category": "tech"
+  },
+  {
+    "name": "Literary Meet-Up",
+    "date": "2024-11-20",
+    "time": "17:00",
+    "location": [
+      33.7113,
+      73.0539
+    ],
+    "description": "Join fellow book lovers for a discussion of classic literature.",
+    "category": "literature"
+  },
+  {
+    "name": "Charity Fun Run",
+    "date": "2024-11-21",
+    "time": "08:00",
+    "location": [
+      33.7134,
+      73.0371
+    ],
+    "description": "Participate in a charity run to raise funds for a good cause.",
+    "category": "charity"
+  },
+  {
+    "name": "Hiking Adventure",
+    "date": "2024-11-22",
+    "time": "06:30",
+    "location": [
+      33.7232,
+      73.0701
+    ],
+    "description": "Embark on an early morning hike through scenic trails.",
+    "category": "outdoors"
+  },
+  {
+    "name": "Stand-Up Comedy Show",
+    "date": "2024-11-23",
+    "time": "19:00",
+    "location": [
+      33.7256,
+      73.0421
+    ],
+    "description": "Laugh till your stomach hurts with a night of stand-up comedy.",
+    "category": "comedy"
+  },
+  {
+    "name": "Photography Workshop",
+    "date": "2024-11-24",
+    "time": "10:00",
+    "location": [
+      33.7112,
+      73.0654
+    ],
+    "description": "Learn professional photography techniques in a hands-on session.",
+    "category": "art"
+  },
+  {
+    "name": "Entrepreneurship Panel",
+    "date": "2024-11-25",
+    "time": "13:00",
+    "location": [
+      33.7176,
+      73.0472
+    ],
+    "description": "Gain insights from successful entrepreneurs in this panel discussion.",
+    "category": "business"
+  },
+  {
+    "name": "4K Gaming Tournament",
+    "date": "2024-11-26",
+    "time": "15:00",
+    "location": [
+      33.7093,
+      73.0365
+    ],
+    "description": "Compete in the latest 4K gaming challenges for prizes.",
+    "category": "gaming"
+  },
+  {
+    "name": "Public Speaking Workshop",
+    "date": "2024-11-27",
+    "time": "09:00",
+    "location": [
+      33.7118,
+      73.0495
+    ],
+    "description": "Master the art of public speaking in this interactive workshop.",
+    "category": "business"
+  },
+  {
+    "name": "Bird Watching Workshop",
+    "date": "2024-11-28",
+    "time": "07:00",
+    "location": [
+      33.7340,
+      73.0513
+    ],
+    "description": "Learn the basics of birdwatching in this guided workshop.",
+    "category": "nature"
+  },
+  {
+    "name": "Street Art Tour",
+    "date": "2024-11-29",
+    "time": "10:00",
+    "location": [
+      33.7103,
+      73.0465
+    ],
+    "description": "Explore the city’s vibrant street art scene with a local guide.",
+    "category": "culture"
+  },
+  {
+    "name": "Mindfulness Meditation Retreat",
+    "date": "2024-11-30",
+    "time": "06:00",
+    "location": [
+      33.7279,
+      73.0554
+    ],
+    "description": "Join a peaceful meditation retreat to improve mental clarity.",
+    "category": "health"
+  },
+  {
+    "name": "DIY Home Decor Workshop",
+    "date": "2024-12-01",
+    "time": "11:00",
+    "location": [
+      33.7307,
+      73.0425
+    ],
+    "description": "Learn how to create your own stylish home decor pieces.",
+    "category": "craft"
+  },
+  {
+    "name": "Virtual Tech Expo",
+    "date": "2024-12-02",
+    "time": "10:00",
+    "location": [
+      33.7184,
+      73.0526
+    ],
+    "description": "Experience the latest tech innovations virtually from the comfort of home.",
+    "category": "tech"
+  },
+  {
+    "name": "Farmers Market",
+    "date": "2024-12-03",
+    "time": "08:00",
+    "location": [
+      33.7153,
+      73.0612
+    ],
+    "description": "Buy fresh, local produce at the weekly farmers market.",
+    "category": "food"
+  },
+  {
+    "name": "Pet Adoption Fair",
+    "date": "2024-12-04",
+    "time": "11:00",
+    "location": [
+      33.7035,
+      73.0378
+    ],
+    "description": "Adopt a new furry friend at the pet adoption fair.",
+    "category": "charity"
+  }
+]
